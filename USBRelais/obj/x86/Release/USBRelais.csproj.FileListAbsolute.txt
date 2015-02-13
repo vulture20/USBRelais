@@ -1,0 +1,11 @@
+c:\users\schröpel\documents\visual studio 2010\Projects\USBRelais\USBRelais\bin\Release\USBRelais.exe
+c:\users\schröpel\documents\visual studio 2010\Projects\USBRelais\USBRelais\bin\Release\USBRelais.pdb
+c:\users\schröpel\documents\visual studio 2010\Projects\USBRelais\USBRelais\bin\Release\LibUsbDotNet.dll
+c:\users\schröpel\documents\visual studio 2010\Projects\USBRelais\USBRelais\bin\Release\LibUsbDotNet.pdb
+c:\users\schröpel\documents\visual studio 2010\Projects\USBRelais\USBRelais\obj\x86\Release\ResolveAssemblyReference.cache
+c:\users\schröpel\documents\visual studio 2010\Projects\USBRelais\USBRelais\obj\x86\Release\USBRelais.Form1.resources
+c:\users\schröpel\documents\visual studio 2010\Projects\USBRelais\USBRelais\obj\x86\Release\USBRelais.Properties.Resources.resources
+c:\users\schröpel\documents\visual studio 2010\Projects\USBRelais\USBRelais\obj\x86\Release\GenerateResource.read.1.tlog
+c:\users\schröpel\documents\visual studio 2010\Projects\USBRelais\USBRelais\obj\x86\Release\GenerateResource.write.1.tlog
+c:\users\schröpel\documents\visual studio 2010\Projects\USBRelais\USBRelais\obj\x86\Release\USBRelais.exe
+c:\users\schröpel\documents\visual studio 2010\Projects\USBRelais\USBRelais\obj\x86\Release\USBRelais.pdb
